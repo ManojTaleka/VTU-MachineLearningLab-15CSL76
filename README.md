@@ -1,1 +1,1 @@
-# VTU-MachineLearningLab-15CSL76
+# VTU MachineLearningLab 15CSL76
